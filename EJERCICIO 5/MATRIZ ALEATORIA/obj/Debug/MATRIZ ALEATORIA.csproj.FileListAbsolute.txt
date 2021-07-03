@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\bin\Debug\MATRIZ ALEATORIA.exe.config
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\bin\Debug\MATRIZ ALEATORIA.exe
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\bin\Debug\MATRIZ ALEATORIA.pdb
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ ALEATORIA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ_ALEATORIA.Form1.resources
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ_ALEATORIA.Properties.Resources.resources
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ ALEATORIA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ ALEATORIA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ ALEATORIA.exe
+C:\Users\user\source\repos\EJERCICIO 5\MATRIZ ALEATORIA\obj\Debug\MATRIZ ALEATORIA.pdb
